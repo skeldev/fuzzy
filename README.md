@@ -73,7 +73,7 @@ Fuzzy’s riddles are fun codes that tie to XRP’s history and big ideas. Here 
 
 Fuzzy’s NFTs are a big part of the fun. They’re traded on XRPL platforms like [xrpnft.com](https://xrpnft.com) or Sologenic, not OpenSea (which is for Ethereum). Here’s the scoop:
 
-- **OG Fuzzybear Collection**: 321 unique NFTs with traits like tattoos of Ripple’s CEO (Brad Garlinghouse) or bear crowns. Some sold for 10,000 XRP (~$23,000 USD)! They’re like collectible cards with XRP history clues.
+- **OG Fuzzybear Collection**: 3210 unique NFTs with traits like tattoos of Ripple’s CEO (Brad Garlinghouse) or bear crowns. Some sold for 10,000 XRP (~$23,000 USD)! They’re like collectible cards with XRP history clues.
 - **Fuzzy Bars**: A newer set (mint delayed as of July 19, 2025) to welcome new fans without diluting the OGs. Think of them as entry-level collectibles.
 - **Golden Tickets**: Rare NFTs that might unlock special events or airdrops, like Willy Wonka’s golden tickets.
 - **Community Perks**: NFT sales fund the $FUZZY liquidity pool, and holders get giveaways (e.g., 900 XRP + NFT prizes).
@@ -127,9 +127,9 @@ As of July 23, 2025, Fuzzy’s community is buzzing on X ([@fuzzy_xrp](https://x
 Ready to join the Fuzzy adventure? Here’s how:
 
 1. **Get XRP**: Use an exchange like Uphold or Bitstamp to buy XRP.
-2. **Set Up a Wallet**: Try Joey Wallet or Xumm to hold XRP and swap for $FUZZY.
+2. **Set Up a Wallet**: Try Joey Wallet or Xaman to hold XRP and swap for $FUZZY.
 3. **Join the Community**: Follow [@fuzzy_xrp](https://x.com/fuzzy_xrp) on X, join Wednesday community calls, and check [fuzzyxrp.com](https://fuzzyxrp.com).
-4. **Explore NFTs**: Look for OG Fuzzybears or Fuzzy Bars on XRPL marketplaces like [xrpnft.com](https://xrpnft.com).
+4. **Explore NFTs**: Look for OG Fuzzybears or Fuzzy Bars on XRPL marketplaces like [xrp.cafe](https://xrp.cafe).
 5. **Decode the Lore**: Watch videos by fans like [@echodatruth](https://x.com/echodatruth) to unravel riddles.
 
 ## A Word of Caution
